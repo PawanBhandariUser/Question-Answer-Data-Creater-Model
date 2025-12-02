@@ -4,7 +4,7 @@ This model is made by finetuning the **flan-t5-large model** from the **transfor
 # Function of Model
 This model takes some sentences of text and and generates some question-answers pairs from this text. Since, it was trained on a tiny dataset, the accuracy is questionable but nevertheless it is a working model.
 
-#Applications
+# Applications
 This model was fundamentally created for creating **flashcards** i.e. it was made for making question-answer pairs but it can also be used to generate some data from **web-scratched** uncleaned data.
 
 # Resources
